@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #E8F9FD;
+}
+
+.header {
+    background-color: #000000;
+    color: #E8F9FD;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 2px;
+}
+
+#pg-title { 
+    text-align: center;
+    margin: 0 auto;
+}
